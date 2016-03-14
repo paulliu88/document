@@ -1,0 +1,15 @@
+﻿{
+    "appid":"H5ADD124B",
+    "iOS":{
+    	"version":"1.0.3",
+    	"title":"李沧干部普法",
+    	"note":"",
+    	"url":"itms-services://?action=download-manifest&amp;url=https://astroway.net:8444/appInstall/LicangPufa/licangPufa_SSL.plist"
+    },
+    "Android":{
+    	"version":"1.0.3",
+    	"title":"李沧干部普法",
+        "note":"",
+    	"url":"http://astroway.net:8090/appInstall/LicangPufa/H5ADD124B.apk"
+    }
+}

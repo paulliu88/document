@@ -1,0 +1,22 @@
+
+石油书吧项目：
+	git@code.csdn.net:u011385445/bookstore.git
+	帐号： 52529860@qq.com
+	密码： hzc2015
+
+git@github.com:felixyin/laotang_zsy_sb_app.git
+
+git@github.com:felixyin/laotang_zsy_sb_manage.git
+
+
+---------------------------------------------------------------------------------
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKQdtWKFikVfR0e7rVOIumu8DPiYybDYfiR25exSjvQAOi9l4di7QllFocNqIdeWO2G1j5GXlfo9Bpy5Z0S/fBricmVyT2hLpABbOHMqYsZO0qQ3Wy/K1bJfYDxZvpaPO/hgOLJG+iLXPGOb5DLXtB8mrR9Idr6An61PF2rKXOTkFdjwd8D4ymo7J0grkztMoStjw8JSrv9GQwSlAxyZvP0DLuykHnu0ikInPXrNXwNmbDQHkcjAPstgIHlCJGDMRy7168YZxOy3AUoFILxLwjA4p/i1ayhI16LpovxPIsKPqursppT389Mjk0hkmFrobOFflS7Zg8jYWFmI0LD7Sj Michel@MICHEL-PC
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYWfoKIYsofSzkxag/VY+xfM+Ct7dx/9j+bL/t4Hc6HxjL6ojiD0oHePpgaPsnfeZTX4gNBcWoAWUnM8vzVUMZM604tSv0YPdTSszcj4iL7m31fhfM9S6cxM5IGf+fO7UY/Y0qx3congbSyMcZmLTmTk+KBl/IYaF6Y8W6Lw8bWnb++327/+U5im+YOMFGa0mI3C7ibmS3tmNUC6vXwzt/6ftTf5cfcWP11R067n9ARea+BpARYxHqEEh8W/WGce+vbKXqMTfv4DsUzeMRETxx/MJYStq35zhDs3GQu2+AIDueLPTDIRwMdswJJK6ASrGBz4v+2Azi0AeaNvVgR3Lx FY@FY-PC
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyX+0GsZOl4qHebui2xVAMvrdvI0U5rmex2psQBazHZsDBo3PmyV4KwXJzspgoRWPmOzYU/ZQwbG/aoRW2NJ41b4kgFRstbUL23qZPAKfXSKHEruhopGOf27kh4xx8Ov1wVQMVbfMaYDaXaIllJwY5oRUVeOOURWT0JiO1nr6VHJUioxgQYUfXadOaHdjJ8BoDlIm8uytx9Oj2qkUjsQljVJ8AvOCJO5Mw4w4EJEcWGjcUgZg6iRXTI4/o1owkXPrxYlnVsJ/foEQ6iqj238IQgxQfGhG5tmk7BumTT2gHcA0eyRIcKhgqRG4u496BO1dpPX7OL7MS7KK6psQ1zYI/ yinbin@YINBIN-PC
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/xloGdCKqgINeA4ODcVE82koFBmKhte3cpfFV4mOAutflDCYn0hj1T+96Up7A4lBAX3ciRH4QuIA+Fj/jENDuHgGhlO2a7dG6Fcrhcg6RMXxmtM1RIEFedjMTkWbK5WZRf61BXyyFyQ/X6WZB0D2UJFjr3GVhPvR7AzVsdt8bru+JWD7cIeDGA4J7SuX3yguSBO5ij/7WW/mf9xbIbNJ6cFlk+p2019IuGIVHW6ohdevFHoevulWwqdXGuJF7XOiU2WNTer8YgYXNCaPjERLSpzL5g2IYVZciHcSwCoOGdxyFZqFxf9d238Hz1ryfiEozrnfD4G3TUInSwD4pTZHR LiuJY@1-LIUJINYUN
