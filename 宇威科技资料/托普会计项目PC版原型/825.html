@@ -1,0 +1,57 @@
+<div class="righttitle">
+    山东继续教育
+</div>
+<div class="waps1" style="width: 750px; background-repeat: repeat-x">
+    <div class="tab1" style="width: 750px;">
+        <div class="tab_menu1">
+            <ul>
+                <li class=selected>登录</li>
+            </ul>
+        </div>
+
+        <div class="tab_box1" style="width: 748px;">
+            <div class="tab_box001" style="width:730px; margin-left: 10px;">
+                <p><span style="font-family:宋体;"><span style="font-size: 9pt;">1</span><span style="font-size: 9pt;">、进入托普会计在线教育首页，在导航栏中点击“继续教育”，如图1所示。</span></span>
+                </p>
+
+                <p style="text-align: center;"><span style="font-family:'Arial','sans-serif';font-size: 9pt;"><img
+                        width="600" alt="" src="/assets/image/bannertu.png"/></span></p>
+
+                <p style="text-align: center;"><span style="font-family:宋体;"><span
+                        style="color:#333333;background: white; font-size: 10pt;">图</span><span lang="EN-US"
+                                                                                                background:white=""
+                                                                                                sans-serif="" serif=""
+                                                                                                mso-bidi-font-family:arial=""
+                                                                                                333333=""
+                                                                                                style="font-family:'';line-height: 150%; font-size: 10pt;">1 </span><span
+                        style="color:#333333;background: white; font-size: 10pt;">网站首页导航栏</span></span></p>
+
+                <p><span style="font-family:宋体;"><span style="font-size: 9pt;">2</span><span style="font-size: 9pt;">、进入继续教育页面，如图2-1所示，您需要选择会计证所属的地区然后进行登陆。选择时，请将鼠标定位在城市名称上面，这时会出现该城市的行政区域名称或者分支名称，请拖动鼠标，将鼠标定位在选择的行政区域名称上面，然后点击该名称进入登录界面。</span></span>
+                </p>
+
+                <p style="text-align: center;"><span style="font-family:'Arial','sans-serif';font-size: 9pt;"><img
+                        width="600" alt="" src="/assets/image/bannertu2.png"/></span></p>
+
+                <p style="text-align: center;"><span style="font-family:宋体;"><span
+                        style="color:#333333;background: white; font-size: 10pt;">图</span><span lang="EN-US"
+                                                                                                background:white=""
+                                                                                                sans-serif="" serif=""
+                                                                                                mso-bidi-font-family:arial=""
+                                                                                                333333=""
+                                                                                                style="font-family:'';line-height: 150%; font-size: 10pt;">2-1 </span><span
+                        style="color:#333333;background: white; font-size: 10pt;">地图选择地区界面</span></span></p>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $("div.tab_menu1 ul li").mousemove(function () {
+            $(this).addClass("selected").siblings().removeClass("selected");
+            var index = $("div.tab_menu1 ul li").index($(this));
+            $("div.tab_box1 > div").eq(index).show().siblings().hide();
+        });
+    });
+</script>
